@@ -43,6 +43,12 @@ main{
 
 }
 
+main div:nth-child(1){
+    display: flex;
+    justify-content: space-around;
+    align-content: center
+}
+
 .container {
     display: flex;
     
