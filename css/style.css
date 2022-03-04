@@ -43,6 +43,12 @@ main{
 
 }
 
+.nav{
+    display: flex;
+    justify-content: space-around;
+    align-content: center
+}
+
 .container {
     display: flex;
     
