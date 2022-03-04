@@ -43,7 +43,7 @@ main{
 
 }
 
-main div:nth-child(1){
+.nav{
     display: flex;
     justify-content: space-around;
     align-content: center
